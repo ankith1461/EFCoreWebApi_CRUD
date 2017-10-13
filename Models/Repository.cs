@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 
 namespace EFCoreWebApi_CRUD.Models{
-    public class Repository{
-        public List<Actor> Actors()
+    public static class Repository{
+        public static List<Actor> Actors()
         {
             List<Actor> actors= new List<Actor>();
             actors.Add(new Actor{Actor_ID=1,First_Name="PENELOPE",Last_Name="GUINESS"});
