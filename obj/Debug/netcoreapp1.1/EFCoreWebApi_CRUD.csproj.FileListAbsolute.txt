@@ -1,0 +1,9 @@
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.deps.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.runtimeconfig.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.runtimeconfig.dev.json
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD\bin\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.pdb
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD\obj\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD\obj\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.AssemblyInfo.cs
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD\obj\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.dll
+C:\Users\arnared\Documents\WebApi Edx Course\EFCoreWebApi_CRUD\obj\Debug\netcoreapp1.1\EFCoreWebApi_CRUD.pdb
